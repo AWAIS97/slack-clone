@@ -32,8 +32,8 @@ const Login = () => {
           alt=''
         />
 
-        <h1>Sign in to Clever Programmer</h1>
-        <p>cleverprogrammer.slack.com</p>
+        <h1>Sign in to Slack-clone</h1>
+        <p>Have a great experience</p>
         <Button onClick={signIn}>Sign in with Google</Button>
       </div>
     </div>
